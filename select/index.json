@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Talking Box",
+  "base_artist": "WurtS",
+  "createdAt": "2025-12-24T14:54:21.872964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Talking Box (Dirty Pop Remix)",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/01_Talking_Box_(Dirty_Pop_Remix)_WurtS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Talking Box (Dirty Pop Remix)",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/02_Talking_Box_(Dirty_Pop_Remix)_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Talking Box",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/03_Talking_Box_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talking Box - Dirty Pop Remix",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/04_Talking_Box_-_Dirty_Pop_Remix_WurtS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talking Box",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_Talking_Box_WurtS.txt"
+    }
+  ]
+}
